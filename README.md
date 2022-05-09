@@ -1,6 +1,6 @@
 <h1 align="center"> Hi Sunny 👋 </h1>
 <!-- ![header](https://i.esdrop.com/d/f/nwDQIv7h17/0SOROf1uus.png) -->
-<img align="center" src="https://i.esdrop.com/d/f/nwDQIv7h17/0SOROf1uus.png"/>
+<p align="center"><img src="https://i.esdrop.com/d/f/nwDQIv7h17/0SOROf1uus.png" /></p>
 
 <br>
 <h3 align="center">My tech stack 📚</h3>
