@@ -1,4 +1,5 @@
-<h1 align="center"> Hi Sunny 👋 </h1>
+<!-- <h1 align="center"> Hi Sunny 👋 </h1> -->
+<img src = "https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hi%20Sunny%20%F0%9F%91%8B&fontSize=80&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 <!-- ![header](https://i.esdrop.com/d/f/nwDQIv7h17/0SOROf1uus.png) -->
 <p align="center"><img src="https://i.esdrop.com/d/f/nwDQIv7h17/0SOROf1uus.png" /></p>
 
@@ -16,6 +17,10 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 </p>
 <br>
+<br>
+<br>
+<br>
+<img src = "https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=footer"/>
 <!--<h3 align="center">Blog </h3>-->
 <!--<div align="center" style="text-align:center">-->
 <!--</div>-->
